@@ -20,3 +20,6 @@ To run the application, follow these steps:
 
 The above steps will automatically launch PowerPoint and translate field by field.
 the translated file will be output in the same directory as the source file.
+
+![image](https://github.com/user-attachments/assets/adf2dfac-df78-4deb-9660-6af079ba5f87)
+
