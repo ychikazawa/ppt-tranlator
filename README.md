@@ -7,7 +7,9 @@
 This project is a WPF application built with .NET Framework 4.8 that translates input PowerPoint files into a specified language using Azure AI Services' Translator. 
 
 ## Prerequisites
-Before using this application, you need to obtain an API Key for Azure AI Translator.
+Before using this application, you need to obtain an API Key for Azure AI Text Translator.
+
+https://learn.microsoft.com/en-us/azure/ai-services/translator/create-translator-resource#get-your-authentication-keys-and-endpoint
 
 ## Usage
 To run the application, follow these steps:
